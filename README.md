@@ -1,5 +1,6 @@
 # Build a Drum Machine
-## Objective: Fulfill the user stories below and get all the tests to pass to complete the lab.
+## Objective: 
+Fulfill the user stories below and get all the tests to pass to complete the lab.
 ## User Stories:
 1.	You should have a div element with an id of drum-machine that contains all other elements.
 2.	Inside the #drum-machine element you should have another div with an id of pad-bank.
